@@ -10,13 +10,11 @@
     <td align="center">
       <a href="https://oracle-nm-ccp.streamlit.app/">
         <img src="https://github.com/Joecoh/Oracle-Cloud-Infrastructure/blob/main/preview.png?raw=true" width="300px"/><br/>
-        <strong>NM Project</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://joecoh.github.io/form-UI/">
         <img src="https://github.com/Joecoh/form-UI/blob/main/preview.png?raw=true" width="300px"/><br/>
-        <strong>🌐 Assignment</strong>
       </a>
     </td>
   </tr>
