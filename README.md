@@ -9,12 +9,12 @@
   <tr>
     <td align="center">
       <a href="https://oracle-nm-ccp.streamlit.app/">
-        <img src="https://github.com/Joecoh/Oracle-Cloud-Infrastructure/blob/main/preview.png?raw=true" width="300px"/><br/>
+        <img src="https://github.com/Joecoh/Oracle-Cloud-Infrastructure/blob/main/preview.png?raw=true" width="500px"/><br/>
       </a>
     </td>
     <td align="center">
       <a href="https://joecoh.github.io/form-UI/">
-        <img src="https://github.com/Joecoh/form-UI/blob/main/preview.png?raw=true" width="300px"/><br/>
+        <img src="https://github.com/Joecoh/form-UI/blob/main/preview.png?raw=true" width="500px"/><br/>
       </a>
     </td>
   </tr>
