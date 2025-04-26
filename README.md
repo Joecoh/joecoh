@@ -5,11 +5,23 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/U63BMqpYHs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joash_elan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joashelan) 
 
-## NM Project
-[![Website Preview](https://github.com/Joecoh/Oracle-Cloud-Infrastructure/blob/main/preview.png?raw=true)](https://oracle-nm-ccp.streamlit.app/)  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://oracle-nm-ccp.streamlit.app/">
+        <img src="https://github.com/Joecoh/Oracle-Cloud-Infrastructure/blob/main/preview.png?raw=true" width="300px"/><br/>
+        <strong>NM Project</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://joecoh.github.io/form-UI/">
+        <img src="https://github.com/Joecoh/form-UI/blob/main/preview.png?raw=true" width="300px"/><br/>
+        <strong>🌐 Assignment</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 🌐 Assignment
-[![Website Preview](https://github.com/Joecoh/form-UI/blob/main/preview.png?raw=true)](https://joecoh.github.io/form-UI/)
 
 
 
